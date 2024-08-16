@@ -1,9 +1,4 @@
-//
-//  TagsSeeder.swift
-//  BudgetApp
-//
-//  Created by Mohammad Azam on 11/13/23.
-//
+
 
 import Foundation
 import CoreData
